@@ -1,6 +1,6 @@
 - 👋 Hola! Soy @RamiroPerez07
-- 👀 Soy un ingeniero industrial recibido en la Universidad Tecnológica Nacional - Facultad Regional San Nicolás, en el año 2020.
-- 🌱 Actualmente estoy cursando el bootcamp de NUCBA orientado a Programación Web Full Stack.
+- 👀 Soy ingeniero industrial recibido en la Universidad Tecnológica Nacional - Facultad Regional San Nicolás, en el año 2020.
+- 🌱 Actualmente encaminando la programación Full Stack, desarrollando en lenguaje Javascript, Python y C# principalmente. Utilizo frameworks de frontend (Angular, React) y backend (Express.js, Flask y .NET ASP Core), en combinación con bases de datos varias (SQL Server, Mongo DB, MySQL, etc).
 - 📫 Contacto:
 [Linkedin](https://www.linkedin.com/in/ramiroperez97/)
 
